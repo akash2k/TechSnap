@@ -515,12 +515,20 @@ ul.timeline {
 .row-2 section .icon {
   left: -48px;
 }
+
+#history .row{
+  width:250px;
+}
 }
 
 @media (max-width: 580px){
 
 #history .details .title{
   font-size: 15px;
+}
+
+#history .row{
+  width:280px;
 }
 
 .row section .icon,
